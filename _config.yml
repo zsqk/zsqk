@@ -1,7 +1,7 @@
 title: Zsqk
-description: 
-google_analytics: 
-show_downloads: true
+description: 掌上乾坤
+google_analytics: UA-127498017-1
+show_downloads: false
 theme: jekyll-theme-merlot
 
 gems:
