@@ -1,5 +1,6 @@
 ---
 title: 招聘
+layout: page
 permalink: /hiring/
 ---
 
