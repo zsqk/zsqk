@@ -11,6 +11,8 @@
 以下是啰嗦的技术栈:
 
 - [语言] JavaScript/ECMAScript 2017+
+- [语言] TypeScript 3
+- [运行环境] Web-APIs
 - [运行环境] Node.js 8+
 - [工具] Yarn
 - [依赖] React 16
@@ -26,6 +28,8 @@
 - [服务器] Nginx
 - [语言] HTML 5
 - [语言] CSS 3
+- [框架] Lumen
+- [框架] Koa 2
 
 ## 招聘
 
@@ -54,4 +58,9 @@ https://codepen.io/anon/pen/vREeae?editors=0011
 JavaScript 基础与原型链:
 https://jsbin.com/cehiziveri/1/edit?js,console
 
-### 产品 (1 名)
+### 产品
+
+- 思考
+- 沟通
+- 决断
+- 记录
