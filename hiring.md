@@ -2,6 +2,7 @@
 title: 招聘
 layout: page
 permalink: /hiring/
+comments: true
 ---
 
 ## 岗位
