@@ -12,7 +12,7 @@
 
 - [语言] JavaScript/ECMAScript 2017+
 - [语言] TypeScript 3
-- [运行环境] Web-APIs
+- [运行环境] Web-APIs (Browser)
 - [运行环境] Node.js 8+
 - [工具] Yarn
 - [依赖] React 16
@@ -28,8 +28,12 @@
 - [服务器] Nginx
 - [语言] HTML 5
 - [语言] CSS 3
-- [框架] Lumen
-- [框架] Koa 2
+- [框架] Lumen (PHP)
+- [框架] Koa 2 (Node.js)
+- [运维] Docker
+- [运维] AWS Lambda
+- [数据库] Amazon DynamoDB
+- [运维] AWS API Gateway
 
 ## 招聘 ⬇️
 
