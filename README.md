@@ -10,7 +10,7 @@
 
 以下是啰嗦的技术栈:
 
-- [语言] JavaScript/ECMAScript 2017+
+- [语言] JavaScript/ECMAScript 2018+
 - [语言] TypeScript 3
 - [运行环境] Web-APIs (Browser)
 - [运行环境] Node.js 8+
@@ -47,7 +47,7 @@
 
 ### 前端
 
-- 掌握 ECMAScript 2017+ [What's new the ECMAScript 2016, 2017 and 2018](https://medium.freecodecamp.org/d52fa3b5a70e)
+- 掌握 ECMAScript 2018+ [What's new the ECMAScript 2016, 2017 and 2018](https://medium.freecodecamp.org/d52fa3b5a70e)
 - 使用版本控制系统
 - 有 HTTP 相关常识
 - 习惯从 MDN 获取信息
