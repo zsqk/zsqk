@@ -14,6 +14,8 @@
 - [语言] TypeScript 3
 - [运行环境] Web-APIs (Browser)
 - [运行环境] Node.js 8+
+- [运行环境] 微信小程序
+- [运行环境] 钉钉E应用 (类似支付宝小程序)
 - [工具] Yarn
 - [依赖] React 16
 - [前端工具] Webpack 4
