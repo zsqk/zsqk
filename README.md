@@ -19,12 +19,15 @@
 - [工具] Yarn
 - [工具] ESLint
 - [工具] Prettier
+- [工具] Babel
 - [依赖] React 16
 - [前端工具] Webpack 4
 - [依赖] PouchDB
 - [依赖] Ant-Design
 - [数据库] CouchDB
 - [语言] PHP 7
+- [语言] Go 1
+- [语言] Python 3
 - [数据库] PostgreSQL
 - [版本控制] Git
 - [文档语法] Markdown
