@@ -17,6 +17,8 @@
 - [运行环境] 微信小程序
 - [运行环境] 钉钉E应用 (类似支付宝小程序)
 - [工具] Yarn
+- [工具] ESLint
+- [工具] Prettier
 - [依赖] React 16
 - [前端工具] Webpack 4
 - [依赖] PouchDB
