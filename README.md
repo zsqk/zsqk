@@ -41,6 +41,8 @@
 - [运维] AWS Lambda
 - [数据库] Amazon DynamoDB
 - [运维] AWS API Gateway
+- [测试] Postman
+- [测试] Jest
 
 ## 招聘 ⬇️
 
