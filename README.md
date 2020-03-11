@@ -13,13 +13,13 @@
 - [语言] JavaScript/ECMAScript 2018+
 - [语言] TypeScript 3
 - [运行环境] Web-APIs (Browser)
-- [运行环境] Node.js 8+
+- [运行环境] Node.js 10+
 - [运行环境] 微信小程序
-- [运行环境] 钉钉E应用 (类似支付宝小程序)
-- [工具] Yarn
-- [工具] ESLint
+- [运行环境] 钉钉小程序 (以前叫E应用, 现在类似支付宝小程序)
+- [工具] Yarn 1
+- [工具] ESLint 6
 - [工具] Prettier
-- [工具] Babel
+- [工具] Babel 7
 - [依赖] React 16
 - [前端工具] Webpack 4
 - [依赖] PouchDB
@@ -27,7 +27,6 @@
 - [数据库] CouchDB
 - [语言] PHP 7
 - [语言] Go 1
-- [语言] Python 3
 - [数据库] PostgreSQL
 - [版本控制] Git
 - [文档语法] Markdown
