@@ -4,7 +4,7 @@
 
 ## 技术 ⬇️
 
-关键字: 微服务, Web, React, Lumen, PostgreSQL, CouchDB
+关键字: 云原生, Web, ECMAScript, React, PostgreSQL, CouchDB
 
 团队使用开源技术, 也会向开源社区反馈.
 
