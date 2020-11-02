@@ -9,19 +9,32 @@ comments: true
 
 ### 后端
 
-- 掌握一门语言 (包含其标准库)
-- 使用版本控制系统
+基本要求:
+
+- 掌握一门语言(Go, ECMAScript) (包含其标准库)
+- 使用版本控制系统(Git)
 - 有 HTTP 相关常识
+
+加分项:
+
 - 习惯从官方文档获取信息
 - 在 Stack Overflow 上有过收获
+- 对开源项目有过贡献
 
 ### 前端
 
-- 掌握 ECMAScript 2017+
-- 使用版本控制系统
+基本要求:
+
+- 掌握 ECMAScript 2015+
+- 使用版本控制系统(Git)
 - 有 HTTP 相关常识
+
+加分项:
+
 - 习惯从 MDN 获取信息
 - 在 Stack Overflow 上有过收获
+- 使用 TypeScript
+- 了解 ECMAScript 2020
 
 项目认识与完成能力:
 https://jsfiddle.net/3q9944mh/2/
@@ -41,4 +54,13 @@ https://jsbin.com/cehiziveri/1/edit?js,console
 
 ## 地点
 
+- 晋城, 山西
+
 ## 待遇
+
+- 每周非远程工作时间不超过 35 小时 + 每周远程工作一天(时间自己灵活控制)
+- 薪资面议
+
+## 应聘
+
+将笔试题完成后, 将代码或链接发送至邮箱 <lzr@go0356.com>.
