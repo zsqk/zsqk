@@ -17,9 +17,11 @@ comments: true
 
 加分项:
 
-- 习惯从官方文档获取信息
+- 习惯从官方文档或源代码中获取信息
 - 在 Stack Overflow 上有过收获
+- 在 LeetCode 独立做过一些中等难度的题
 - 对开源项目有过贡献
+- 熟练掌握至少一门其他的后端语言
 
 ### 前端
 
@@ -32,9 +34,12 @@ comments: true
 加分项:
 
 - 习惯从 MDN 获取信息
+- 在 LeetCode 独立做过一些中等难度的题
 - 在 Stack Overflow 上有过收获
+- 对开源项目有过贡献
 - 使用 TypeScript
 - 了解 ECMAScript 2020
+- 参与过使用 React 的项目
 
 笔试题:
 
