@@ -11,8 +11,9 @@ comments: true
 
 基本要求:
 
-- 掌握一门语言(Go, ECMAScript) (包含其标准库)
+- 掌握一门语言(Go, ECMAScript) (包括其标准库)
 - 使用版本控制系统(Git)
+- 熟悉至少一种 SQL 或 NoSQL 数据库
 - 有 HTTP 相关常识
 
 加分项:
@@ -29,6 +30,7 @@ comments: true
 
 - 掌握 ECMAScript 2015+
 - 使用版本控制系统(Git)
+- 掌握 HTML 及 CSS 的基本用法
 - 有 HTTP 相关常识
 
 加分项:
