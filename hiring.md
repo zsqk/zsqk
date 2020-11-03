@@ -45,13 +45,11 @@ comments: true
 
 笔试题:
 
-项目认识与完成能力:
-<https://jsfiddle.net/3q9944mh/2/> (可能需要网络进行相关配置才能打开)
-
-注释与学习能力:
+- 项目认识与完成能力:
+<https://jsfiddle.net/3q9944mh/2/> (可能需要进行网络相关配置才能打开)
+- 注释与学习能力:
 <https://codepen.io/anon/pen/vREeae?editors=0011>
-
-JavaScript 基础与原型链:
+- JavaScript 基础与原型链:
 <https://jsbin.com/cehiziveri/1/edit?js,console>
 
 ### 产品
