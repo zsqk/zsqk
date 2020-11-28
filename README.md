@@ -14,6 +14,7 @@
 - [语言] TypeScript 4
 - [运行环境] Web-APIs (Browser)
 - [运行环境] Node.js 14+
+- [运行环境] Deno
 - [运行环境] 微信小程序
 - [运行环境] 钉钉小程序 (以前叫E应用, 现在基于支付宝小程序)
 - [工具] Yarn 1
@@ -22,8 +23,8 @@
 - [工具] Babel 7
 - [依赖] React 17
 - [前端工具] Webpack 4
+- [依赖] Ant-Design (antd)
 - [依赖] PouchDB
-- [依赖] Ant-Design
 - [数据库] CouchDB
 - [语言] PHP 7
 - [语言] Go 1
@@ -48,6 +49,8 @@
 <https://zsqk.github.io/zsqk/hiring/>
 
 ## 工具 🛠️
+
+macOS / Windows WSL 2
 
 https://code.visualstudio.com/
 
