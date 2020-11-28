@@ -10,17 +10,17 @@
 
 以下是啰嗦的技术栈:
 
-- [语言] JavaScript/ECMAScript 2018+
-- [语言] TypeScript 3
+- [语言] JavaScript/ECMAScript 2020+
+- [语言] TypeScript 4
 - [运行环境] Web-APIs (Browser)
-- [运行环境] Node.js 10+
+- [运行环境] Node.js 14+
 - [运行环境] 微信小程序
-- [运行环境] 钉钉小程序 (以前叫E应用, 现在类似支付宝小程序)
+- [运行环境] 钉钉小程序 (以前叫E应用, 现在基于支付宝小程序)
 - [工具] Yarn 1
-- [工具] ESLint 6
+- [工具] ESLint 7
 - [工具] Prettier
 - [工具] Babel 7
-- [依赖] React 16
+- [依赖] React 17
 - [前端工具] Webpack 4
 - [依赖] PouchDB
 - [依赖] Ant-Design
@@ -35,7 +35,7 @@
 - [语言] HTML 5
 - [语言] CSS 3
 - [框架] Lumen (PHP)
-- [框架] Koa 2 (Node.js)
+- [框架] Next.js 10
 - [运维] Docker
 - [运维] AWS Lambda
 - [数据库] Amazon DynamoDB
