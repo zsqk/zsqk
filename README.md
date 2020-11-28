@@ -2,7 +2,7 @@
 
 晋城市掌上乾坤网络科技有限公司
 
-## 技术 ⬇️
+## 技术 ⚙️
 
 关键字: 云原生, Web, ECMAScript, React, PostgreSQL, CouchDB
 
@@ -43,8 +43,12 @@
 - [测试] Postman
 - [测试] Jest
 
-## 招聘 ⬇️
-
-### 后端
+## 招聘 💼
 
 <https://zsqk.github.io/zsqk/hiring/>
+
+## 工具 🛠️
+
+https://code.visualstudio.com/
+
+https://www.jetbrains.com/resources/eap/
