@@ -25,6 +25,11 @@ comments: true
 - 熟练掌握至少一门其他的后端语言
 - 使用 WebAssembly
 
+笔试题:
+
+- 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
+  但是青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
+
 ### 前端
 
 基本要求:
@@ -47,11 +52,11 @@ comments: true
 笔试题:
 
 - 项目认识与完成能力:
-<https://jsfiddle.net/3q9944mh/2/> (可能需要进行网络相关配置才能打开)
+  <https://jsfiddle.net/3q9944mh/2/> (可能需要进行网络相关配置才能打开)
 - 注释与学习能力:
-<https://codepen.io/anon/pen/vREeae?editors=0011>
+  <https://codepen.io/anon/pen/vREeae?editors=0011>
 - JavaScript 基础与原型链:
-<https://jsbin.com/cehiziveri/1/edit?js,console>
+  <https://jsbin.com/cehiziveri/1/edit?js,console>
 
 ### 产品
 
