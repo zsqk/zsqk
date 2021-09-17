@@ -29,6 +29,7 @@ comments: true
 
 - 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
   但是青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
+- https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDXMDeMAlnAFwwCMANDAA4nkAMMAvlTnoQzAEw31kYzNh1xdBAZn7cKrdngLFBAFmmS5oxdwCsa8so0BdANxYsoSLABOAUwhpMHceWp1ujGsAAWCImHIYhhpiSuR8boIeMN6+-phBIiHcUhEunj5+ARQJ8loqejApMZmYrhI5TqEwuqkwqtEZcRhlNMoVJmZQAJ60NjAAYmAOABQAbuTD3b0gAGbwSAgAlItoAHwwUzazMLYQplgzAK5gwFBE4ANgwyv4HAD0dzAAKgDyACIv5IAx2oAIRoCn0YBfxUADqZYFhYIA
 
 ### 前端
 
