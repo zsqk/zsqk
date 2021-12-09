@@ -54,6 +54,7 @@ comments: true
 
 - 项目认识与完成能力:
   <https://codesandbox.io/s/zsqk-test-1-ti-mu-yoq2q?file=/index.html>
+- 将项目认识与完成能力中的功能用 React 重构一遍.
 - 注释与学习能力:
   <https://codepen.io/anon/pen/vREeae?editors=0011>
 - JavaScript 基础与原型链:
