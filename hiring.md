@@ -60,7 +60,33 @@ comments: true
 - JavaScript 基础与原型链:
   <https://jsbin.com/cehiziveri/1/edit?js,console>
 
-<script>console.log('test');</script>
+<script>const guide = `答题指南:
+
+项目认识与完成能力, 共考察如下几点:
+
+1. 前端基础结构理解.
+2. CSS 基础.
+3. 项目数据结构理解.
+4. JS 数组基础操作.
+5. Web API 基础操作, DOM 操作.
+6. JS 函数调用.
+7. 前端程序健壮性.
+
+注释与学习能力, 共考察如下几点:
+
+1. 如果使用过 JSDoc, 考察对 JSDoc 的认识.
+2. 如果没使用过 JSDoc, 考察学习能力.
+3. 合理的函数注释名称.
+4. 根据代码功能推断类型.
+
+JavaScript 基础与原型链, 共考察如下几点:
+
+1. 功能实现能力.
+2. 避免 hardcode.
+3. JS 基础用法.
+4. 合理的函数拆分.
+5. JS 原型链基础理解.
+6. JS getter 的基础理解.`</script>
 
 ### 产品
 
