@@ -11,13 +11,15 @@ comments: true
 
 基本要求:
 
-- 掌握一门语言及其标准库 (Go, TypeScript, Rust)
+- 掌握一门语言及其标准库 (TypeScript, Go)
 - 使用版本控制系统 (Git)
 - 熟悉至少一种 SQL 或 NoSQL 数据库
 - 有 HTTP 相关常识
 
 加分项:
 
+- 使用 Deno
+- 使用 PostgreSQL
 - 习惯从官方文档或源代码中获取信息
 - 在 Stack Overflow 上有过收获
 - 在 LeetCode 独立做过一些中等难度的题
@@ -42,13 +44,14 @@ comments: true
 
 加分项:
 
+- 参与过使用 React 的项目
+- 参与过有平台对接的项目 (比如微信公众平台等)
 - 习惯从 MDN 获取信息
 - 在 LeetCode 独立做过一些中等难度的题
 - 在 Stack Overflow 上有过收获
 - 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
 - 使用 TypeScript
 - 了解 ECMAScript 2020
-- 参与过使用 React 的项目
 
 笔试题:
 
