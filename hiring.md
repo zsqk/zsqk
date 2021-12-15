@@ -60,6 +60,8 @@ comments: true
 - JavaScript 基础与原型链:
   <https://jsbin.com/cehiziveri/1/edit?js,console>
 
+<script>console.log('test');</script>
+
 ### 产品
 
 - 思考
