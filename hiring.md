@@ -57,14 +57,14 @@ comments: true
 
 - 项目认识与完成能力:
   <https://codesandbox.io/s/zsqk-test-1-ti-mu-yoq2q?file=/index.html>
-  答题时, 浏览器隐私模式打开后, 直接修改代码以完成待办, 保存后 URL 会变为修改后代码的唯一 URL.
+  答题时不必须注册或登录, 浏览器隐私模式打开后, 直接修改代码以完成待办, 保存后 URL 会变为修改后代码的唯一 URL.
 - 将项目认识与完成能力中的功能用 React 重构一遍.
 - 注释与学习能力:
   <https://codepen.io/anon/pen/vREeae?editors=0011>
-  答题时, 修改代码完成待办, 将修改后的代码保存在任意地方.
+  答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
 - JavaScript 基础与原型链:
   <https://jsbin.com/cehiziveri/1/edit?js,console>
-  答题时, 浏览器隐私模式打开后, 直接修改代码以实现计划输出, 保存后 URL 会变为修改后代码的唯一 URL.
+  答题时不必须注册或登录, 浏览器隐私模式打开后, 直接修改代码以实现计划输出, 保存后 URL 会变为修改后代码的唯一 URL.
 
 <script>const guide = `答题指南:
 
