@@ -59,7 +59,7 @@ comments: true
   <https://codesandbox.io/s/zsqk-test-1-ti-mu-yoq2q?file=/index.html>
   答题时不必须注册或登录, 浏览器隐私模式打开后, 直接修改代码以完成待办, 保存后 URL 会变为修改后代码的唯一 URL.
 - 将项目认识与完成能力中的功能用 React 重构一遍.
-  如果有 React 经验, 可以选做. 不必考虑兼容, 使用 TypeScript 和 ES2021 均可, 使用 fetch 等 Web API.
+  如果有 React 经验, 可以选做. 不必考虑浏览器兼容, 使用 TypeScript 和 ES2021 均可, 使用 fetch 等 Web API.
 - 注释与学习能力:
   <https://codepen.io/anon/pen/vREeae?editors=0011>
   答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
@@ -111,6 +111,7 @@ JavaScript 基础与原型链, 共考察如下几点:
 
 - 工作时间不超过 **35 小时/每周**
 - 近五年加班时间不超过 **30 小时/每年**
+- 良好的技术氛围
 - 开发设备为 Mac mini (2020)
 - 薪资根据能力面议, 在当地有竞争力
 
