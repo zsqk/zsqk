@@ -30,8 +30,8 @@ comments: true
 笔试题:
 
 - 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
-  但是青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
-- [获取数据的所有链条](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmAAVAHkAESuyQBjtQAQjQFPowF-FQAdTLGYsIA)
+  但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
+- [获取数据的所有链条](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmAAVAHkAESuyQBjtQAQjQFPowF-FQAdTLGYsIA) 在数组中, 我们不能假设数据一定按照某种顺序排列, 要考虑到符合类型要求的前提下, 真实数据的多种可能.
 
 ### 前端
 
