@@ -4,7 +4,7 @@
 
 ## 技术 ⚙️
 
-关键字: 云原生, Web, ECMAScript, Go, React, PostgreSQL
+关键字: 云原生, Web, TypeScript, Deno, React, PostgreSQL
 
 团队使用开源技术, 也会向开源社区反馈.
 
