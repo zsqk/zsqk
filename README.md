@@ -11,7 +11,7 @@
 以下是啰嗦的技术栈:
 
 - [语言] JavaScript/ECMAScript 2020+
-- [语言] TypeScript 4
+- [语言] TypeScript 4.5+
 - [语言] HTML 5
 - [语言] CSS 3
 - [语言] Go 1
