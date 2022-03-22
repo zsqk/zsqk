@@ -23,7 +23,7 @@
 - [依赖] React 17
 - [依赖] Ant-Design (antd)
 - [依赖] Ionic
-- [框架] Next.js 12
+- [框架] Next.js last
 - [数据库] PostgreSQL
 - [版本控制] Git
 - [文档语法] Markdown
@@ -35,6 +35,8 @@
 - [数据库] Amazon DynamoDB
 - [运维] 阿里云 函数计算 FC
 - [运维] 阿里云 对象储存 OSS
+- [运维] Vercel
+- [运维] Deno Deploy
 - [工具] ESLint 7
 - [工具] Prettier
 - [工具] Babel 7
