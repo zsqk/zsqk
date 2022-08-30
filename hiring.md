@@ -35,6 +35,11 @@ comments: true
 - 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
   但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
 - [获取数据的所有链条](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmAAVAHkAESuyQBjtQAQjQFPowF-FQAdTLGYsIA) 在数组中, 我们不能假设数据一定按照某种顺序排列, 要考虑到符合类型要求的前提下, 真实数据的多种可能.
+- 将以上两题的答案改为 TypeScript.
+  如果有 TypeScript 经验, 可以选做.
+- 注释与学习能力:
+  <https://codepen.io/anon/pen/vREeae?editors=0011>
+  答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
 
 ### 前端
 
