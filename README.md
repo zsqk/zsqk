@@ -20,26 +20,21 @@
 - [运行环境] Deno
 - [运行环境] 微信小程序
 - [运行环境] 钉钉小程序 (以前叫E应用, 现在基于支付宝小程序)
-- [依赖] React 17
+- [依赖] React 17+
 - [依赖] Ant-Design (antd)
 - [依赖] Ionic
-- [框架] Next.js last
+- [框架] Next.js latest
 - [数据库] PostgreSQL
 - [版本控制] Git
 - [文档语法] Markdown
 - [文档语法] reStructuredText
-- [Web 服务器] Nginx
-- [运维] Docker
-- [运维] AWS Lambda
-- [运维] AWS API Gateway
-- [数据库] Amazon DynamoDB
 - [运维] 阿里云 函数计算 FC
 - [运维] 阿里云 对象储存 OSS
 - [运维] Vercel
 - [运维] Deno Deploy
-- [工具] ESLint 7
+- [工具] ESLint
 - [工具] Prettier
-- [工具] Babel 7
+- [工具] Babel
 - [测试] Jest
 
 逐步不再继续使用的:
@@ -51,6 +46,11 @@
 - [框架] Lumen (PHP)
 - [前端工具] Webpack 4
 - [工具] Yarn 1
+- [Web 服务器] Nginx
+- [运维] Docker
+- [运维] AWS Lambda
+- [运维] AWS API Gateway
+- [数据库] Amazon DynamoDB
 
 ## 文化
 
