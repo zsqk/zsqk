@@ -140,5 +140,5 @@ JavaScript 基础与原型链, 共考察如下几点:
 
 ## 联系方式
 
-- 邮箱: <lzr@go0356.com>
+- 邮箱: <dev@zsqk.com.cn>
 - 微信: zheren (请备注 zsqk)
