@@ -17,14 +17,14 @@
 - [语言] Go 1
 - [运行环境] Web-APIs (Browser)
 - [运行环境] Node.js 16+
-- [运行环境] Deno
+- [运行环境] Deno latest
 - [运行环境] 微信小程序
 - [运行环境] 钉钉小程序 (以前叫E应用, 现在基于支付宝小程序)
 - [依赖] React 17+
-- [依赖] Ant-Design (antd)
+- [依赖] Ant-Design (antd) 5
 - [依赖] Ionic
 - [框架] Next.js latest
-- [数据库] PostgreSQL
+- [数据库] PostgreSQL 14+
 - [版本控制] Git
 - [文档语法] Markdown
 - [文档语法] reStructuredText
@@ -32,7 +32,7 @@
 - [运维] 阿里云 对象储存 OSS
 - [运维] Vercel
 - [运维] Deno Deploy
-- [工具] ESLint
+- [工具] ESLint 8
 - [工具] Prettier
 - [工具] Babel
 - [测试] Jest
