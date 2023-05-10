@@ -24,6 +24,7 @@
 - [依赖] Ant-Design (antd) 5
 - [依赖] Ionic
 - [框架] Next.js latest
+- [框架] Taro 3
 - [数据库] PostgreSQL 14+
 - [版本控制] Git
 - [文档语法] Markdown
