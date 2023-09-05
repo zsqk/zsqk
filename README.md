@@ -23,8 +23,13 @@
 - [依赖] React 17+
 - [依赖] Ant-Design (antd) 5
 - [依赖] Ionic
+- [依赖] [Postgres.js](https://github.com/porsager/postgres)
+- [依赖] [Day.js](https://day.js.org/)
+- [依赖] [somefn](https://github.com/zsqk/deno-fn)
 - [框架] Next.js latest
 - [框架] Taro 3
+- [框架] [fresh](https://github.com/denoland/fresh)
+- [技术] [CSS Modules](https://github.com/css-modules/css-modules)
 - [数据库] PostgreSQL 14+
 - [版本控制] Git
 - [文档语法] Markdown
@@ -32,7 +37,6 @@
 - [运维] 阿里云 函数计算 FC
 - [运维] 阿里云 对象储存 OSS
 - [运维] Vercel
-- [运维] Deno Deploy
 - [工具] ESLint 8
 - [工具] Prettier
 - [工具] Babel
@@ -51,7 +55,10 @@
 - [运维] Docker
 - [运维] AWS Lambda
 - [运维] AWS API Gateway
+- [运维] Deno Deploy
 - [数据库] Amazon DynamoDB
+- [Moment.js](https://momentjs.com/)
+- [deno-postgres](https://github.com/denodrivers/postgres)
 
 ## 文化
 
