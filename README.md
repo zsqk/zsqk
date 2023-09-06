@@ -30,7 +30,7 @@
 - [框架] Taro 3
 - [框架] [fresh](https://github.com/denoland/fresh)
 - [技术] [CSS Modules](https://github.com/css-modules/css-modules)
-- [数据库] PostgreSQL 14+
+- [数据库] PostgreSQL 14.9
 - [版本控制] Git
 - [文档语法] Markdown
 - [文档语法] reStructuredText
