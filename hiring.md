@@ -11,7 +11,7 @@ comments: true
 
 基本要求:
 
-- 掌握一门语言及其标准库 (TypeScript, Go)
+- 掌握 TypeScript 及常用 Web API
 - 使用版本控制系统 (Git)
 - 熟悉至少一种 SQL 或 NoSQL 数据库
 - 有 HTTP 相关常识
@@ -27,7 +27,7 @@ comments: true
 - 在 Stack Overflow 上有过收获
 - 在 LeetCode 独立做过一些中等难度的题
 - 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
-- 熟练掌握至少一门其他的后端语言
+- 熟练掌握至少一门其他的后端语言 (Go, Python 等)
 - 使用 WebAssembly
 
 笔试题:
