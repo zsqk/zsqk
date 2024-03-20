@@ -35,12 +35,12 @@ comments: true
 
 - 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
   但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
+  并且使用 TypeScript 完成.
 - [获取数据的所有链条](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmAAVAHkAESuyQBjtQAQjQFPowF-FQAdTLGYsIA)
   在数组中, 我们不能假设数据一定按照某种顺序排列, 要考虑到符合类型要求的前提下, 真实数据的多种可能.
-- 将以上两题的答案改为 TypeScript.
-- 注释与学习能力:
-  <https://codepen.io/anon/pen/vREeae?editors=0011>
-  答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
+- 注释与 TypeScript 类型:
+  <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
+  答题后点击 Share 获取答题代码的 URL.
 
 ### 前端
 
@@ -73,12 +73,12 @@ comments: true
   <https://codesandbox.io/s/zsqk-test-1-ti-mu-yoq2q?file=/index.html>
   如果没有账号且不想注册, 可以一键下载代码后在本地作答.
 - 将项目认识与完成能力中的功能用 React 重构一遍.
-- 注释与学习能力:
-  <https://codepen.io/anon/pen/vREeae?editors=0011>
-  答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
+- 注释与 TypeScript 类型:
+  <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
+  答题后点击 Share 获取答题代码的 URL.
 - JavaScript 基础与原型链:
-  <https://jsbin.com/cehiziveri/1/edit?js,console>
-  答题时不必须注册或登录, 浏览器隐私模式打开后, 直接修改代码以实现计划输出, 保存后 URL 会变为修改后代码的唯一 URL.
+  <https://www.typescriptlang.org/play?#code/C4TwDgpgBAIghsOUC8UBKEDGB7ATgEwB4BnYXASwDsBzAGilIpoG0BdAPgG4AobnS0lHwQAttniIAXLARJUAb25QoAckAVCoA1tFdOYqAzACYA4gCEV9FQDYALKZWtaS1YFDFLTpXGzF22YdOVgPI6gKp62lC6AKyAj0GAH9rmqtYx9twAvrwAZgCulJjA5NiUUAAWcJT4ADYQABT4stIScACUUIrKAPStUAAqAPIw3Sm8-MTYFQB0ZdjUlSqAIJqAYC6Ay36AOeaSccWlFdWi4rINDYP5w2MTUyqAhdGASEqAyfGAX4qrFswARJrShqb0rtKe9MHSUdGPejPDTSGzvKCfKDfKC-KD-QFQYGvaGQnw-IJ-GIIpFQMEmD4gqBomEYuFYoEvKBvfEQwnQ2EJAEUwl4glfcEM8mIynUtlEjmkxnYyms2nSYmcgGsFT7IA>
+  答题后点击 Share 获取答题代码的 URL.
 
 <script>const guide = `答题指南:
 
@@ -109,10 +109,10 @@ React:
 7. 如果使用 TS, 不应该有明显的类型问题.
 8. 不要有不必要的 state.
 
-注释与学习能力, 共考察如下几点:
+注释与 TypeScript 类型, 共考察如下几点:
 
-1. 如果使用过 JSDoc, 考察对 JSDoc 的认识. (使用 JSDoc tags 完成功能)
-2. 如果没使用过 JSDoc, 考察学习能力.
+1. 修复 TypeScript 函数参数类型问题.
+2. 增加 TypeScript 函数返回类型.
 3. 合理的函数注释名称, 是否理解函数基础功能.
 4. 函数参数的可选及默认值是否理解清楚.
 5. 根据代码功能推断类型. (包括参数类型, 返回类型)
@@ -122,11 +122,13 @@ React:
 JavaScript 基础与原型链, 共考察如下几点:
 
 1. 功能实现能力. 要实现功能, 处理结果要与预期一致.
-2. 避免 hardcode. 不能假设数据一定有三个属性, 也可以是两个, 也可能是四个, 每个属性中的值数量也是不固定的.
+2. 避免 hardcode. 不能假设数据一定有三个属性, 也可以是两个, 也可能是四个,
+   每个属性中的值数量也是不固定的.
 3. JS 基础用法. 看功能是如何实现的, 如何使用 JS 基础语法和常见方法.
 4. 合理的函数拆分. 在实现功能的前提下, 是否对复杂功能进行合理的功能拆分.
 5. 是否使用了 ECMAScript 较新的语法.
-6. 细节是否完善, 比如最终字符串中的逗号和空格是否如预期中的要求.`</script>
+6. 细节是否完善, 比如最终字符串中的逗号和空格是否如预期中的要求.
+`</script>
 
 ### 产品
 
