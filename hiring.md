@@ -11,7 +11,8 @@ comments: true
 
 基本要求:
 
-- 掌握 TypeScript 及常用 Web API
+- 掌握 ECMAScript 2015+ 及常用 Web API
+- 掌握 TypeScript
 - 使用版本控制系统 (Git)
 - 熟悉至少一种 SQL 或 NoSQL 数据库
 - 有 HTTP 相关常识
@@ -27,7 +28,7 @@ comments: true
 - 在 Stack Overflow 上有过收获
 - 在 LeetCode 独立做过一些中等难度的题
 - 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
-- 熟练掌握至少一门其他的后端语言 (Go, Python 等)
+- 熟练掌握至少一门其他的后端语言 (Rust, Python 等)
 - 使用 WebAssembly
 
 笔试题:
@@ -36,7 +37,6 @@ comments: true
   但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
 - [获取数据的所有链条](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmAAVAHkAESuyQBjtQAQjQFPowF-FQAdTLGYsIA) 在数组中, 我们不能假设数据一定按照某种顺序排列, 要考虑到符合类型要求的前提下, 真实数据的多种可能.
 - 将以上两题的答案改为 TypeScript.
-  如果有 TypeScript 经验, 可以选做.
 - 注释与学习能力:
   <https://codepen.io/anon/pen/vREeae?editors=0011>
   答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
@@ -45,9 +45,11 @@ comments: true
 
 基本要求:
 
-- 掌握 ECMAScript 2015+
+- 掌握 ECMAScript 2015+ 及常用 Web API
+- 掌握 TypeScript
 - 使用版本控制系统 (Git)
 - 掌握 HTML 及 CSS 的基本用法
+- 了解 React 的基础概念及用法
 - 有 HTTP 相关常识
 - 可以理解并实现需求
 
@@ -56,21 +58,20 @@ comments: true
 - 良好的业务理解能力
 - 良好的沟通能力
 - 参与过使用 React 的项目
+- 使用 Flutter 及 Dart
 - 参与过有平台对接的项目 (比如微信公众平台等)
 - 习惯从 MDN 获取信息
 - 在 LeetCode 独立做过一些中等难度的题
 - 在 Stack Overflow 上有过收获
 - 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
-- 使用 TypeScript
-- 了解 ECMAScript 2020
+- 了解 ECMAScript 最新版
 
 笔试题:
 
 - 项目认识与完成能力:
   <https://codesandbox.io/s/zsqk-test-1-ti-mu-yoq2q?file=/index.html>
-  答题时不必须注册或登录, 浏览器隐私模式打开后, 直接修改代码以完成待办, 保存后 URL 会变为修改后代码的唯一 URL.
+  如果没有账号且不想注册, 可以一键下载代码后在本地作答.
 - 将项目认识与完成能力中的功能用 React 重构一遍.
-  如果有 React 经验, 可以选做. 不必考虑浏览器兼容, 使用 TypeScript 和 ES2021 均可, 使用 fetch 等 Web API.
 - 注释与学习能力:
   <https://codepen.io/anon/pen/vREeae?editors=0011>
   答题时不必须注册或登录, 修改代码完成待办, 将修改后的代码保存在任意地方.
@@ -89,8 +90,12 @@ comments: true
 5. Web API 基础操作, DOM 操作. (找到特定 DOM, 修改其 class)
 6. JS 函数调用. (使用列出的一些函数)
 7. 前端程序健壮性. (找不到人时, 也有相应的 DOM 变动)
-8. 使用 fetch 完成网络请求.
+8. 使用 fetch 完成网络请求, 而不要使用其他第三方库及 XMLHttpRequest.
 9. 考虑到网络超时错误. (使用信号来做超时则更佳)
+10. 避免使用 var 而用 let. 从语言上来说, var 不是块内, 而是会自动提升到整个函数,
+    如果想要整个函数的作用域, 完全可以在函数内 let 声明, 语言上有可替代性. 另外,
+    从工程角度来说, let 允许在一个块内替代变量, 在小作用域内命名不受限,
+    虽然我们不建议这样做, 但给出了工程规范上的更多可能性.
 
 React:
 
@@ -119,9 +124,8 @@ JavaScript 基础与原型链, 共考察如下几点:
 2. 避免 hardcode. 不能假设数据一定有三个属性, 也可以是两个, 也可能是四个, 每个属性中的值数量也是不固定的.
 3. JS 基础用法. 看功能是如何实现的, 如何使用 JS 基础语法和常见方法.
 4. 合理的函数拆分. 在实现功能的前提下, 是否对复杂功能进行合理的功能拆分.
-5. JS 原型链基础理解. 是否通过原型链方法实现基本功能.
-6. JS getter 的基础理解. 是否通过对象 getter 实现基本功能.
-7. 细节是否完善, 比如最终字符串中的逗号和空格是否如预期中的要求.`</script>
+5. 是否使用了 ECMAScript 较新的语法.
+6. 细节是否完善, 比如最终字符串中的逗号和空格是否如预期中的要求.`</script>
 
 ### 产品
 
