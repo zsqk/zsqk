@@ -70,9 +70,11 @@ comments: true
 笔试题:
 
 - 项目认识与完成能力:
-  <https://codesandbox.io/s/zsqk-test-1-ti-mu-yoq2q?file=/index.html>
+  <https://codesandbox.io/p/sandbox/zsqk-test-1-ti-mu-yoq2q?file=%2Findex.html>
   如果没有账号且不想注册, 可以一键下载代码后在本地作答.
 - 将项目认识与完成能力中的功能用 React 重构一遍.
+  <https://codesandbox.io/p/sandbox/zsqk-test-react-typescript-fzhvmc?file=%2Fsrc%2FApp.tsx>
+  如果没有账号且不想注册, 可以一键下载代码后在本地作答.
 - 注释与 TypeScript 类型:
   <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
   答题后点击 Share 获取答题代码的 URL.
@@ -104,7 +106,13 @@ React:
 5. 进行组件的合理拆分, 数据组件, 功能组件.
 6. 进行组件的合理拆分, 功能组件分为操作组件与显示组件.
 7. 如果使用 TS, 不应该有明显的类型问题.
-8. 不要有不必要的 state.
+8. state 设计是否合理且收敛.
+9. 要求不引用额外依赖.
+10. 是否存在因没有使用 useCallback 而导致的性能问题. (微小但有用)
+11. 代码注释是否清晰.
+12. 不要出现基础的 TS 语法问题, 比如隐性的 any.
+13. 不要使用 any 而是细化类型, 在必要时可使用 unknown.
+14. 不要在运行时推断不足的情况下使用 as.
 
 注释与 TypeScript 类型, 共考察如下几点:
 
