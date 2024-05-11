@@ -78,7 +78,7 @@ comments: true
 - 注释与 TypeScript 类型:
   <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
   答题后点击 Share 获取答题代码的 URL.
-- JavaScript 基础与原型链:
+- JavaScript 基础及数据处理:
   <https://www.typescriptlang.org/play?#code/C4TwDgpgBAIghsOUC8UBKEDGB7ATgEwB4BnYXASwDsBzAGilIpoG0BdAPgG4AobnS0lHwQAttniIAXLARJUAb25QoAckAVCoA1tFdOYqAzACYA4gCEV9FQDYALKZWtaS1YFDFLTpXGzF22YdOVgPI6gKp62lC6AKyAj0GAH9rmqtYx9twAvrwAZgCulJjA5NiUUAAWcJT4ADYQABT4stIScACUUIrKAPStUAAqAPIw3Sm8-MTYFQB0ZdjUlSqAIJqAYC6Ay36AOeaSccWlFdWi4rINDYP5w2MTUyqAhdGASEqAyfGAX4qrFswARJrShqb0rtKe9MHSUdGPejPDTSGzvKCfKDfKC-KD-QFQYGvaGQnw-IJ-GIIpFQMEmD4gqBomEYuFYoEvKBvfEQwnQ2EJAEUwl4glfcEM8mIynUtlEjmkxnYyms2nSYmcgGsFT7IA>
   答题后点击 Share 获取答题代码的 URL.
 
@@ -131,7 +131,7 @@ React:
 7. 不要使用不必要的 tags.
 8. 不要破坏代码原本的功能.
 
-JavaScript 基础与原型链, 共考察如下几点:
+JavaScript 基础及数据处理, 共考察如下几点:
 
 1. 功能实现能力. 要实现功能, 处理结果要与预期一致.
 2. 避免 hardcode. 不能假设数据一定有三个属性, 也可以是两个, 也可能是四个,
