@@ -23,13 +23,13 @@
 - [依赖] React 18+
 - [依赖] Ant-Design (antd) 5
 - [依赖] Ionic
-- [依赖] [Postgres.js](https://github.com/porsager/postgres)
-- [依赖] [Day.js](https://day.js.org/)
-- [依赖] [somefn](https://github.com/zsqk/deno-fn)
+- [依赖] [Postgres.js]
+- [依赖] [Day.js]
+- [依赖] [somefn]
 - [框架] Next.js latest
 - [框架] Taro 3
-- [框架] [fresh](https://github.com/denoland/fresh)
-- [技术] [CSS Modules](https://github.com/css-modules/css-modules)
+- [框架] [fresh]
+- [技术] [CSS Modules]
 - [数据库] PostgreSQL 14+
 - [版本控制] Git
 - [文档语法] Markdown
@@ -41,6 +41,12 @@
 - [工具] Prettier
 - [工具] Babel
 - [测试] Jest
+
+[Postgres.js]: https://github.com/porsager/postgres
+[CSS Modules]: https://github.com/css-modules/css-modules
+[fresh]: https://github.com/denoland/fresh
+[Day.js]: https://day.js.org/
+[somefn]: https://github.com/zsqk/deno-fn
 
 逐步不再继续使用的:
 
