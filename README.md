@@ -16,10 +16,11 @@
 - [语言] CSS 3
 - [语言] Rust
 - [运行环境] Web-APIs (Browser)
-- [运行环境] Node.js 18+
-- [运行环境] Deno latest
 - [运行环境] 微信小程序
-- [运行环境] 钉钉小程序 (以前叫E应用, 现在基于支付宝小程序)
+- [运行环境] Electron latest
+- [运行环境] Node.js 22+
+- [运行环境] Deno latest
+- [运行环境] Bun latest
 - [依赖] React 18+
 - [依赖] Ant-Design (antd) 5
 - [依赖] Ionic
@@ -34,13 +35,17 @@
 - [版本控制] Git
 - [文档语法] Markdown
 - [文档语法] reStructuredText
-- [运维] 阿里云 函数计算 FC
-- [运维] 阿里云 对象储存 OSS
-- [运维] Vercel
-- [工具] ESLint 8
+- [部署] 阿里云 函数计算 FC
+- [部署] 阿里云 对象储存 OSS
+- [部署] Aliyun ESA
+- [部署] Vercel
+- [云服务] Aliyun MNS
+- [云服务] Aliyun EventBridge
+- [工具] ESLint 9
 - [工具] Prettier
 - [工具] Babel
 - [测试] Jest
+- [测试] deno test
 
 [Postgres.js]: https://github.com/porsager/postgres
 [CSS Modules]: https://github.com/css-modules/css-modules
@@ -50,6 +55,7 @@
 
 逐步不再继续使用的:
 
+- [运行环境] 钉钉小程序 (以前叫E应用, 现在基于支付宝小程序)
 - [语言] Go 1
 - [依赖] PouchDB
 - [数据库] CouchDB
