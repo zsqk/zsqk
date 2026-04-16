@@ -23,9 +23,7 @@ comments: true
 - 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
   但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`. 要求使用 TypeScript 完成.
 - [获取数据的所有链条]. 答题后点击 Share 获取答题代码的 URL.
-- 注释与 TypeScript 类型:
-  <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
-  答题后点击 Share 获取答题代码的 URL.
+- [注释与 TypeScript 类型]. 答题后点击 Share 获取答题代码的 URL.
 - 项目认识与完成能力:
   <https://codesandbox.io/p/sandbox/zsqk-test-1-ti-mu-yoq2q?file=%2Findex.html>
   如果没有账号且不想注册, 可以一键下载代码后在本地作答.
@@ -34,6 +32,7 @@ comments: true
   如果没有账号且不想注册, 可以一键下载代码后在本地作答.
 - [数组的基础处理]. 答题后点击 Share 获取答题代码的 URL.
 
+[注释与 TypeScript 类型]: https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
 [获取数据的所有链条]: https://www.typescriptlang.org/play/?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmEAKdUAHU0ARv0BaOWpARCNAG7lAWDlAX4DAcQVAPuirwDtjQAAcoAs7UAkMaAc0dAAvmgFnPQBeGYB4vUAScaAdCVqIBAyMAwAGARTDAAxKgDJvQAQKoBvH0A0eqowBCNoAQt0AskqABeNANBy1EA+O6APO1-hTAFiaUMA98rvAB0p3OABUAPIAEWFZEAMdqABCNAKfRgF-FK5YZhYIA
 [数组的基础处理]: https://www.typescriptlang.org/play?#code/C4TwDgpgBAIghsOUC8UBKEDGB7ATgEwB4BnYXASwDsBzAGilIpoG0BdAPgG4AobnS0lHwQAttniIAXLARJUAb25QoAckAVCoA1tFdOYqAzACYA4gCEV9FQDYALKZWtaS1YFDFLTpXGzF22YdOVgPI6gKp62lC6AKyAj0GAH9rmqtYx9twAvrwAZgCulJjA5NiUUAAWcJT4ADYQABT4stIScACUUIrKAPStUAAqAPIw3Sm8-MTYFQB0ZdjUlSqAIJqAYC6Ay36AOeaSccWlFdWi4rINDYP5w2MTUyqAhdGASEqAyfGAX4qrFswARJrShqb0rtKe9MHSUdGPejPDTSGzvKCfKDfKC-KD-QFQYGvaGQnw-IJ-GIIpFQMEmD4gqBomEYuFYoEvKBvfEQwnQ2EJAEUwl4glfcEM8mIynUtlEjmkxnYyms2nSYmcgGsFT7IA
 
