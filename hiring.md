@@ -47,20 +47,21 @@ comments: true
 - 有函数计算的经验 (产品级别的项目经验)
 - 熟练掌握至少一门其他的后端语言 (Rust, Python, Golang 等)
 - 使用版本控制系统 (Git)
-- 熟悉至少一种 SQL 或 NoSQL 数据库
+- 使用 PostgreSQL
+- 熟悉至少一种 NoSQL 数据库
 - 掌握 HTTP 相关常识
-- 可以理解并实现需求
-- 优秀的沟通能力
 - 习惯从官方文档或源代码中获取信息
 - 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
+- 优秀的沟通能力
+- 可以理解并实现需求
 
 加分项:
 
 - 良好的业务理解能力
-- 使用 PostgreSQL
 - 在 Stack Overflow 上有过收获
 - 在 LeetCode 独立做过一些中等难度的题
 - 使用 WebAssembly
+- 日常使用 AI 解决问题
 
 ### 前端专家
 
@@ -73,9 +74,9 @@ comments: true
 - 掌握 React 的基础概念及用法
 - 有 React 的开发经验 (产品级别的项目经验)
 - 有 HTTP 相关常识
-- 可以理解并实现需求
-- 优秀的沟通能力
 - 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
+- 优秀的沟通能力
+- 可以理解并实现需求
 
 加分项:
 
@@ -85,6 +86,7 @@ comments: true
 - 习惯从 MDN 获取信息
 - 在 LeetCode 独立做过一些中等难度的题
 - 在 Stack Overflow 上有过收获
+- 日常使用 AI 解决问题
 
 <script>const guide = `答题指南:
 
