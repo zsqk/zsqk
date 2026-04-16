@@ -7,80 +7,84 @@ comments: true
 
 ## 岗位 Job description
 
-### 后端
+### 全栈工程师
 
 基本要求:
 
-- 掌握 ECMAScript 2015+ 及常用 Web API
-- 掌握 TypeScript
-- 使用版本控制系统 (Git)
-- 熟悉至少一种 SQL 或 NoSQL 数据库
-- 有 HTTP 相关常识
-- 可以理解并实现需求
-
-加分项:
-
 - 良好的业务理解能力
-- 良好的沟通能力
-- 使用 Deno
-- 使用 PostgreSQL
-- 习惯从官方文档或源代码中获取信息
-- 在 Stack Overflow 上有过收获
-- 在 LeetCode 独立做过一些中等难度的题
-- 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
-- 熟练掌握至少一门其他的后端语言 (Rust, Python 等)
-- 使用 WebAssembly
+- 掌握后端基本技能
+- 掌握前端基本技能
+- 使用版本控制系统 (Git)
+- 有产品能力: 针对一个具体问题, 站在用户角度思考, 和用户沟通, 制定多个解决方案,
+  在多个方案间进行决断, 最终独立完成整个方案, 并完善任务记录及文档
 
-笔试题:
+笔试题 (可以使用 AI 辅助, 但请注明使用了 AI):
 
 - 基于 <https://leetcode.com/problems/minimum-number-of-frogs-croaking/>,
-  但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`.
-  并且使用 TypeScript 完成.
-- [获取数据的所有链条](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmAAVAHkAESuyQBjtQAQjQFPowF-FQAdTLGYsIA)
-  在数组中, 我们不能假设数据一定按照某种顺序排列, 要考虑到符合类型要求的前提下, 真实数据的多种可能.
+  但我们的要求更进一步, 青蛙的蛙鸣 `croak` 不是一个常量, 而是一个变量, 比如 `abcdefg`. 要求使用 TypeScript 完成.
+- [获取数据的所有链条]. 答题后点击 Share 获取答题代码的 URL.
 - 注释与 TypeScript 类型:
   <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
   答题后点击 Share 获取答题代码的 URL.
-
-### 前端
-
-基本要求:
-
-- 掌握 ECMAScript 2015+ 及常用 Web API
-- 掌握 TypeScript
-- 使用版本控制系统 (Git)
-- 掌握 HTML 及 CSS 的基本用法
-- 了解 React 的基础概念及用法
-- 有 HTTP 相关常识
-- 可以理解并实现需求
-
-加分项:
-
-- 良好的业务理解能力
-- 良好的沟通能力
-- 参与过使用 React 的项目
-- 使用 Flutter 及 Dart
-- 参与过有平台对接的项目 (比如微信公众平台等)
-- 习惯从 MDN 获取信息
-- 在 LeetCode 独立做过一些中等难度的题
-- 在 Stack Overflow 上有过收获
-- 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
-- 了解 ECMAScript 最新版
-
-笔试题:
-
 - 项目认识与完成能力:
   <https://codesandbox.io/p/sandbox/zsqk-test-1-ti-mu-yoq2q?file=%2Findex.html>
   如果没有账号且不想注册, 可以一键下载代码后在本地作答.
 - 将项目认识与完成能力中的功能用 React 重构一遍.
   <https://codesandbox.io/p/sandbox/zsqk-test-react-typescript-fzhvmc?file=%2Fsrc%2FApp.tsx>
   如果没有账号且不想注册, 可以一键下载代码后在本地作答.
-- 注释与 TypeScript 类型:
-  <https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAXA9gE0ZQMdqBDVQ3j6Gj1QU8qAXNoFOJUIw4AZgK4B2AxvAJaK2TwCmAzvABSsdIAXkgBGADTsA7ogCUkAN5RITSpF7wZ8pZF2QATh3jV9bAHLUAtgCMO+jVoDcygL7LDx05As27-Whyyzi5AA>
-  答题后点击 Share 获取答题代码的 URL.
-- JavaScript 基础及数据处理:
-  <https://www.typescriptlang.org/play?#code/C4TwDgpgBAIghsOUC8UBKEDGB7ATgEwB4BnYXASwDsBzAGilIpoG0BdAPgG4AobnS0lHwQAttniIAXLARJUAb25QoAckAVCoA1tFdOYqAzACYA4gCEV9FQDYALKZWtaS1YFDFLTpXGzF22YdOVgPI6gKp62lC6AKyAj0GAH9rmqtYx9twAvrwAZgCulJjA5NiUUAAWcJT4ADYQABT4stIScACUUIrKAPStUAAqAPIw3Sm8-MTYFQB0ZdjUlSqAIJqAYC6Ay36AOeaSccWlFdWi4rINDYP5w2MTUyqAhdGASEqAyfGAX4qrFswARJrShqb0rtKe9MHSUdGPejPDTSGzvKCfKDfKC-KD-QFQYGvaGQnw-IJ-GIIpFQMEmD4gqBomEYuFYoEvKBvfEQwnQ2EJAEUwl4glfcEM8mIynUtlEjmkxnYyms2nSYmcgGsFT7IA>
-  答题后点击 Share 获取答题代码的 URL.
+- [数组的基础处理]. 答题后点击 Share 获取答题代码的 URL.
+
+[获取数据的所有链条]: https://www.typescriptlang.org/play/?#code/MYewdgzgLgBAJgQygmBeGBtAUDGBvGASzgC4YBGAGhgAdiyAGGAX0p3yNJgCZq6umrdgXowAzH1HkWbXCK4AWSVzEzhnMgFZlZBWoC6AbixZQkWACcAphDSZ1UnTAbVgACwSEwZDPrVyNHicXGHdPb0w-IQDRCVpHUI8vH3Io2Q5RJXiVVySIjCpxNIcubWzdXPCU6jiFYqMTKABPGisYADEwOwAKADcybubWkAAzeCQEAEpJtAA+GCGrUZhrCGNTcGgYEYjOnpnUebx2AHoTmEAKdUAHU0ARv0BaOWpARCNAG7lAWDlAX4DAcQVAPuirwDtjQAAcoAs7UAkMaAc0dAAvmgFnPQBeGYB4vUAScaAdCVqIBAyMAwAGARTDAAxKgDJvQAQKoBvH0A0eqowBCNoAQt0AskqABeNANBy1EA+O6APO1-hTAFiaUMA98rvAB0p3OABUAPIAEWFZEAMdqABCNAKfRgF-FK5YZhYIA
+[数组的基础处理]: https://www.typescriptlang.org/play?#code/C4TwDgpgBAIghsOUC8UBKEDGB7ATgEwB4BnYXASwDsBzAGilIpoG0BdAPgG4AobnS0lHwQAttniIAXLARJUAb25QoAckAVCoA1tFdOYqAzACYA4gCEV9FQDYALKZWtaS1YFDFLTpXGzF22YdOVgPI6gKp62lC6AKyAj0GAH9rmqtYx9twAvrwAZgCulJjA5NiUUAAWcJT4ADYQABT4stIScACUUIrKAPStUAAqAPIw3Sm8-MTYFQB0ZdjUlSqAIJqAYC6Ay36AOeaSccWlFdWi4rINDYP5w2MTUyqAhdGASEqAyfGAX4qrFswARJrShqb0rtKe9MHSUdGPejPDTSGzvKCfKDfKC-KD-QFQYGvaGQnw-IJ-GIIpFQMEmD4gqBomEYuFYoEvKBvfEQwnQ2EJAEUwl4glfcEM8mIynUtlEjmkxnYyms2nSYmcgGsFT7IA
+
+### 后端专家
+
+基本要求:
+
+- 掌握 ECMAScript 及常用 Web API
+- 掌握 TypeScript
+- 有 Deno/Bun/workerd 等运行时经验
+- 有函数计算的经验 (产品级别的项目经验)
+- 熟练掌握至少一门其他的后端语言 (Rust, Python, Golang 等)
+- 使用版本控制系统 (Git)
+- 熟悉至少一种 SQL 或 NoSQL 数据库
+- 掌握 HTTP 相关常识
+- 可以理解并实现需求
+- 优秀的沟通能力
+- 习惯从官方文档或源代码中获取信息
+- 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
+
+加分项:
+
+- 良好的业务理解能力
+- 使用 PostgreSQL
+- 在 Stack Overflow 上有过收获
+- 在 LeetCode 独立做过一些中等难度的题
+- 使用 WebAssembly
+
+### 前端专家
+
+基本要求:
+
+- 掌握 ECMAScript 及常用 Web API
+- 掌握 TypeScript
+- 使用版本控制系统 (Git)
+- 掌握 HTML 及 CSS 的基本用法
+- 掌握 React 的基础概念及用法
+- 有 React 的开发经验 (产品级别的项目经验)
+- 有 HTTP 相关常识
+- 可以理解并实现需求
+- 优秀的沟通能力
+- 对开源项目有过贡献 (比如在 GitHub 上参与 issues 讨论, PR review 等)
+
+加分项:
+
+- 良好的业务理解能力
+- 使用 Flutter 及 Dart
+- 参与过有平台对接的项目 (比如微信公众平台等)
+- 习惯从 MDN 获取信息
+- 在 LeetCode 独立做过一些中等难度的题
+- 在 Stack Overflow 上有过收获
 
 <script>const guide = `答题指南:
 
@@ -158,13 +162,6 @@ TS 基础:
 
 `</script>
 
-### 产品
-
-- 思考
-- 沟通
-- 决断
-- 记录
-
 ## 地点
 
 - 晋城 (城区, 国贸A栋), 山西
@@ -174,7 +171,7 @@ TS 基础:
 - 工作时间不超过 **35 小时/每周**
 - 近五年加班时间不超过 **30 小时/每年**
 - 良好的技术氛围
-- 开发设备为 Mac mini (M2)
+- 开发设备为 Mac mini (M4)
 - 薪资根据能力面议, 在当地有竞争力
 
 ## 联系方式
