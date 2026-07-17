@@ -119,8 +119,9 @@
 
 ## 工具 🛠️
 
-macOS / Windows WSL 2
-
-https://code.visualstudio.com/
-
-https://www.jetbrains.com/resources/eap/
+- macOS / Windows WSL 2
+- VS Code https://code.visualstudio.com/
+- Fork
+- ChatGPT (Codex)
+- Warp
+- Chrome (with Ask Gemini)
