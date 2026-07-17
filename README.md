@@ -10,39 +10,41 @@
 
 以下是啰嗦的技术栈:
 
-- [语言] JavaScript/ECMAScript 2020+
-- [语言] TypeScript 5+
+- [语言] JavaScript/ECMAScript 2022+
+- [语言] TypeScript 6+
 - [语言] HTML 5
 - [语言] CSS 3
 - [语言] Rust
 - [运行环境] Web-APIs (Browser)
 - [运行环境] 微信小程序
 - [运行环境] Electron latest
-- [运行环境] Node.js 22+
+- [运行环境] Node.js 24+
 - [运行环境] Deno latest
 - [运行环境] Bun latest
 - [依赖] React 18+
-- [依赖] Ant-Design (antd) 5
+- [依赖] Ant-Design (antd) 6
 - [依赖] Ionic
 - [依赖] [Postgres.js]
 - [依赖] [Day.js]
 - [依赖] [somefn]
 - [框架] Next.js latest
 - [框架] Taro 3
-- [框架] [fresh]
+- [框架] [fresh] 2.x
 - [技术] [CSS Modules]
 - [数据库] PostgreSQL 14+
 - [版本控制] Git
 - [文档语法] Markdown
 - [文档语法] reStructuredText
-- [部署] 阿里云 函数计算 FC
-- [部署] 阿里云 对象储存 OSS
+- [部署] 阿里云 函数计算 Aliyun FC
+- [部署] 阿里云 对象储存 Aliyun OSS
 - [部署] Aliyun ESA
 - [部署] Vercel
 - [云服务] Aliyun MNS
 - [云服务] Aliyun EventBridge
+- [云服务] Cloudflare
 - [工具] ESLint 9
 - [工具] Prettier
+- [工具] Vite
 - [工具] Babel
 - [测试] Jest
 - [测试] deno test
