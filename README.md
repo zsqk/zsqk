@@ -42,6 +42,8 @@
 - [云服务] Aliyun MNS
 - [云服务] Aliyun EventBridge
 - [云服务] Cloudflare
+- [运维工具] Caddy
+- [运维工具] Docker
 - [工具] ESLint 9
 - [工具] Prettier
 - [工具] Vite
@@ -67,7 +69,6 @@
 - [前端工具] Webpack 4
 - [工具] Yarn 1
 - [Web 服务器] Nginx
-- [运维] Docker
 - [运维] AWS Lambda
 - [运维] AWS API Gateway
 - [运维] Deno Deploy
